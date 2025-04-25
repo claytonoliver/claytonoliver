@@ -16,10 +16,9 @@ Full-Stack Developer | C# e .NET | Uipath | CI/CD | SQL Server and Oracle
 - **Frameworks**: ASP.NET Core, Angular and React
 - **Architectural Patterns**: Clean Architecture, CQRS, Repository Pattern, Singleton, Observer.
 - **Tools**: Git, GitHub, GitLab, Azure DevOps, UiPath, MassTransit, Dapper, NHibernate, Entity Framework and Power Automate.
-- **Infraestructure & Devops**: CI/CD, Kubernetes, Docker, Azure, FortiGate and Jenkins
+- **Infrastructure & Devops**: CI/CD, Kubernetes, Docker, Azure, FortiGate and Jenkins
 - **Databases**: SQL Server, Oracle (PL/SQL), MySQL and MongoDB
 - **Design/UI**: Tailwind, WordPress and SEO
-- **Other**: SCCM and Office 365 Administrtor
 
 ##
 
